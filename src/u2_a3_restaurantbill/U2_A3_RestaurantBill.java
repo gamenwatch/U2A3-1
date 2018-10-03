@@ -7,7 +7,7 @@
 package u2_a3_restaurantbill;
 
 /**
- *Jacob Lacey
+ *Jacob
  *26 Sept 2018
  *To Calculate and Output/Print a Bill for a Meal @ a Restaurant (ESM)
  */
